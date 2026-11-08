@@ -142,6 +142,6 @@ streamlit run streamplit_app.py
 
 ## Evaluation Scope
 
-Evaluation uses later portions of the same three recordings used for training. It provides a preliminary assessment within those recording sessions; performance across independent sessions, rooms, people, and hardware requires further validation.
+Evaluation uses later portions of the same three recordings used for training. It provides a preliminary assessment within those recording sessions; performance across independent sessions, rooms, people, and hardware requires further validation. The work on this project is currently in progress, therefore the data collected from ESP-32s is limited.
 
 This is a research prototype for movement detection, not a medically validated system or an epileptic seizure detector.
